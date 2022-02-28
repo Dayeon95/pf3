@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 104.2 133.2" style="enable-background:new 0 0 104.2 133.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.6;fill:#F68632;enable-background:new    ;}
+	.st1{fill:none;stroke:#454545;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#454545;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#454545;}
+</style>
+<circle id="타원_27" class="st0" cx="52.8" cy="78.9" r="40"/>
+<g id="그룹_102" transform="translate(-135.35 -353.977)">
+	<path id="사각형_38" class="st1" d="M144.2,356.6h86.6c3.4,0,6.1,2.7,6.1,6.1V479c0,3.4-2.7,6.1-6.1,6.1h-86.6
+		c-3.4,0-6.1-2.7-6.1-6.1V362.7C138.1,359.3,140.9,356.6,144.2,356.6z"/>
+	<line id="선_12" class="st1" x1="138.1" y1="381.8" x2="236.9" y2="381.8"/>
+	<path id="패스_42" class="st1" d="M171.6,356.6c0,0,2.9,14.9-7,25.2"/>
+	<path id="사각형_39" class="st1" d="M209.6,365.1h16.5c1.4,0,2.5,1.1,2.5,2.5v4.1c0,1.4-1.1,2.5-2.5,2.5h-16.5
+		c-1.4,0-2.5-1.1-2.5-2.5v-4.1C207.1,366.2,208.2,365.1,209.6,365.1z"/>
+	<path id="사각형_40" class="st1" d="M185.5,365.1h4.5c1.3,0,2.3,1,2.3,2.3v4.5c0,1.3-1,2.3-2.3,2.3h-4.5c-1.3,0-2.3-1-2.3-2.3
+		v-4.5C183.2,366.1,184.3,365.1,185.5,365.1z"/>
+	<line id="선_13" class="st2" x1="147.5" y1="366.9" x2="161" y2="366.9"/>
+	<path id="패스_43" class="st2" d="M174.1,394.9c21.2-7.5,44.6,3.5,52.1,24.8s-3.6,44.5-24.8,52.1s-44.6-3.5-52.1-24.8
+		c-3.4-9.6-3.1-20.2,0.9-29.6"/>
+	<path id="패스_44" class="st2" d="M214.6,419.8c0,0-7.4,2.7-7.4,12.8s8.3,12.5,8.3,12.5c-6.5,15.3-24.1,22.5-39.4,16
+		c-15.3-6.5-22.5-24.1-16-39.4c6.5-15.3,24.1-22.5,39.4-16C206.1,408.5,211.4,413.5,214.6,419.8"/>
+	<circle id="타원_4" class="st3" cx="215.5" cy="433.4" r="2.2"/>
+	<circle id="타원_5" class="st3" cx="154.3" cy="411.5" r="2.2"/>
+	<circle id="타원_6" class="st3" cx="159.9" cy="405.5" r="2.2"/>
+	<circle id="타원_7" class="st3" cx="166.8" cy="399.8" r="2.2"/>
+</g>
+</svg>
